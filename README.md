@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Adil khan
-- 👀 I’m interested in web desining and web development
-- 🌱 I’m currently learning DSA,css,java and java script
-- 💞️ Ask me about c and HTML.
+- 🌱 I’m currently learning PYTHON , MACHINE LEARNING , DSA
 - 📫 How to reach me aaadilkhan656@gmail.com
 
 <!---

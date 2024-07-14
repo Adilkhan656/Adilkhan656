@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Adil khan
-- 🌱 I’m currently learning PYTHON , MACHINE LEARNING , DSA
+- 👋 Hi, I’m Adil Raza khan
+- 🌱 I’m currently learning APP DEVELOPMENT , KOTLIN , DSA
 - 📫 How to reach me aaadilkhan656@gmail.com
 
 <!---

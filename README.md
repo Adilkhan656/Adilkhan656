@@ -13,7 +13,7 @@
 
 ### 🧠 About Me  
 💬 Passionate **Android Developer** focused on building intelligent mobile apps with a touch of AI.  
-🔭 Currently working on **Farmer Weather & Crop Planning Assistant** — bringing smart agriculture to life.  
+🔭 Completed **Farmer Weather & Crop Planning Assistant** — bringing smart agriculture to life.  
 🌱 Expanding skills in **Firebase**, **Jetpack Compose**, **Python**, and **Flutter (Dart)**.  
 🎯 My goal: to create **impactful, real-world mobile solutions** powered by AI.  
 📫 Reach me anytime at **adilrazakhan158@gmail.com**
@@ -38,7 +38,7 @@
 |-------------|----------------|----------------|
 | **Farmer Weather & Crop Planning Assistant** | AI-driven app helping farmers plan crops and monitor weather | Kotlin, Firebase, TensorFlow |
 | **Smart Health Tracker** | Tracks health metrics and predicts anomalies using ML models | Kotlin, Python, Firebase |
-| **EduLink App** | Platform connecting students with mentors | Flutter, Dart, Firebase |
+
 
 <p align="center">
   <i>Each project is a step towards building smarter, more connected communities.</i>
@@ -54,7 +54,7 @@
 
 <p align="center">
   <b>"Code is not just syntax — it’s art, logic, and emotion combined."</b><br/>
-  <i>Every app I build tells a story — simple, efficient, and human-centered.</i>
+  <i>Every app I build tells a story — simple, efficient, and human-centred.</i>
 </p>
 
 ---
@@ -64,8 +64,6 @@
 <p align="center">
   <a href="https://x.com/mr__unperfect" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/adil-khan-ba65b7229/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>&nbsp;
-  <a href="https://www.kaggle.com/adilrazakhan" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" width="40" /></a>&nbsp;
-  <a href="https://www.facebook.com/adilkhan50" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>&nbsp;
   <a href="https://www.instagram.com/adil.khan_._/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </p>
 

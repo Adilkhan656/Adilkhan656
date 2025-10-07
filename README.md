@@ -3,48 +3,76 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Adil Raza Khan</h1>
-<h4 align="left">I’m a passionate Android developer with a strong interest in AI and machine learning. I specialise in building intelligent mobile applications using modern tools like Android Studio and TensorFlow. I'm currently focused on developing smart, real-world solutions</h4>
+<h3 align="center">🚀 Android Developer | 💡 AI & ML Enthusiast | 📱 Flutter Learner</h3>
 
-
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-1359.gif" />
-
-- 🔭 I’m currently working on **Farmer Weather & Crop Planning Assistant**
-- 🌱 I’m currently learning **Firebase , Jetpack Compose , Pyhton**
-
-- 💬 Ask me about **KOTLIN ,XML, Android studio**
-
-- 📫 How to reach me **adilrazakhan158@gmail.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" /></a>
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-1359.gif" height="150" alt="Developer GIF" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilkhan656&layout=compact&langs_count=5&theme=transparent&hide_border=true" height="150" alt="languages graph" />
+---
 
+### 🧠 About Me  
+💬 Passionate **Android Developer** focused on building intelligent mobile apps with a touch of AI.  
+🔭 Currently working on **Farmer Weather & Crop Planning Assistant** — bringing smart agriculture to life.  
+🌱 Expanding skills in **Firebase**, **Jetpack Compose**, **Python**, and **Flutter (Dart)**.  
+🎯 My goal: to create **impactful, real-world mobile solutions** powered by AI.  
+📫 Reach me anytime at **adilrazakhan158@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/mr__unperfect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mr__unperfect" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adil-khan-ba65b7229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adil-khan-ba65b7229/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/adilrazakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/adilrazakhan" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/adilkhan50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adilkhan50" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/adil.khan_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adil.khan_._/" height="30" width="40" /></a>
+---
+
+### ⚙️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,java,python,firebase,tensorflow,gcp,mysql,git,figma" />
 </p>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adilkhan656&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
+<p align="center">
+  <b>✨ I love blending design, intelligence, and clean architecture to create smooth mobile experiences.</b>
+</p>
 
+---
+
+### 🌟 Featured Projects
+
+| 🚀 Project | 💡 Description | 🧰 Tech Stack |
+|-------------|----------------|----------------|
+| **Farmer Weather & Crop Planning Assistant** | AI-driven app helping farmers plan crops and monitor weather | Kotlin, Firebase, TensorFlow |
+| **Smart Health Tracker** | Tracks health metrics and predicts anomalies using ML models | Kotlin, Python, Firebase |
+| **EduLink App** | Platform connecting students with mentors | Flutter, Dart, Firebase |
+
+<p align="center">
+  <i>Each project is a step towards building smarter, more connected communities.</i>
+</p>
+
+---
+
+### 💬 Developer Philosophy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <b>"Code is not just syntax — it’s art, logic, and emotion combined."</b><br/>
+  <i>Every app I build tells a story — simple, efficient, and human-centered.</i>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://x.com/mr__unperfect" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/adil-khan-ba65b7229/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>&nbsp;
+  <a href="https://www.kaggle.com/adilrazakhan" target="_blank"><img src="https://skillicons.dev/icons?i=kaggle" width="40" /></a>&nbsp;
+  <a href="https://www.facebook.com/adilkhan50" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>&nbsp;
+  <a href="https://www.instagram.com/adil.khan_._/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code with passion, design with purpose, and deploy with confidence.”</i>  
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=435&lines=Android+Developer;AI+and+ML+Enthusiast;Flutter+Learner;Always+learning+something+new!&center=true&vCenter=true" />
+</p>

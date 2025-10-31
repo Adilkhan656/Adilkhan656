@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Adil Raza Khan</h1>
-<h3 align="center">🚀 Android Developer | 💡 AI & ML Enthusiast | 📱 Flutter Learner</h3>
+<h3 align="center">🚀 Android Developer | 💡 AI & ML Enthusiast | 📱 Flutter Learner| 📊 Data Analyst</h3>
 
 <p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-1359.gif" height="150" alt="Developer GIF" />
